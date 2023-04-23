@@ -2,6 +2,8 @@
     "name": "CavEX",
     "author": "ByteBit/xtreme8000",
     "author_preferred_contacts": "",
+    "category": "games",
+    "peripherals": ["Wii Remote"],
     "version": "Alpha 0.2.1",
     "source": {
         "type": "url",

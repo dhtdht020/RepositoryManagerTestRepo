@@ -2,6 +2,8 @@
     "name": "Newo Zero",
     "author": "Owen",
     "author_preferred_contacts": "",
+    "category": "games",
+    "peripherals": ["Wii Remote", "Nunchuk", "Classic Controller", "GameCube Controller", "SDHC"],
     "version": "auto",
     "source": {
         "type": "url",
