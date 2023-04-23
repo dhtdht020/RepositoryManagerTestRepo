@@ -1,0 +1,11 @@
+{
+    "name": "CavEX",
+    "author": "ByteBit/xtreme8000",
+    "author_preferred_contacts": "",
+    "version": "Alpha 0.2.1",
+    "source": {
+        "type": "url",
+        "location": "https://aos.party/download_public/cavex_a002b.zip"
+    },
+    "treatments": {}
+}
