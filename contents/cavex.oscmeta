@@ -9,5 +9,8 @@
         "type": "url",
         "location": "https://aos.party/download_public/cavex_a002b.zip"
     },
+    "extras": {
+        "source_code": "https://github.com/xtreme8000/CavEX"
+    },
     "treatments": {}
 }
