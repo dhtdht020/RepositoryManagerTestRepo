@@ -7,7 +7,7 @@
     "version": "auto",
     "source": {
         "type": "url",
-        "format": "archive",
+        "format": "zip",
         "location": "https://owensoft.net/project/newogame/dl/newozero.zip"
     },
     "treatments": {
