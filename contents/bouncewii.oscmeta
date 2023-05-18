@@ -2,7 +2,7 @@
     "name": "BounceWii",
     "author": "Greeg0",
     "author_preferred_contacts": "",
-    "category": "demos",
+    "category": "media",
     "peripherals": ["Wii Remote", "GameCube Controller"],
     "version": "0.2.1",
     "source": {
