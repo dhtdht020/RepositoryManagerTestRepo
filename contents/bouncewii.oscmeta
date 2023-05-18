@@ -1,0 +1,16 @@
+{
+    "name": "BounceWii",
+    "author": "Greeg0",
+    "author_preferred_contacts": "",
+    "category": "demos",
+    "peripherals": ["Wii Remote", "GameCube Controller"],
+    "version": "0.2.1",
+    "source": {
+        "type": "url",
+        "format": "zip",
+        "location": "https://github.com/Greeg0/BounceWii/releases/download/v0.2.1/BounceWii-v0.2.1.zip"
+    },
+    "treatments": {
+        "contents.move": ["BounceWii/", "apps/bouncewii/"]
+    }
+}
