@@ -23,7 +23,15 @@
         },
         {
             "treatment": "contents.move",
-            "arguments": ["apps/contents_treatment_test/README_DE.md", "apps/README.md"]
+            "arguments": ["apps/contents_treatment_test/README_DE.md", "apps/README_DE.md"]
+        },
+        {
+            "treatment": "contents.delete",
+            "arguments": ["apps/contents_treatment_test/licenses"]
+        },
+        {
+            "treatment": "contents.delete",
+            "arguments": ["apps/contents_treatment_test/CHANGES"]
         }
     ]
 }
