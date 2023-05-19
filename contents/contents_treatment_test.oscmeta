@@ -15,7 +15,7 @@
     "treatments": [
         {
             "treatment": "contents.move",
-            "arguments": ["mGBA-0.10.2-wii/", "apps/mgba/"]
+            "arguments": ["mGBA-0.10.2-wii/", "apps/contents_treatment_test/"]
         },
         {
             "treatment": "contents.move",
