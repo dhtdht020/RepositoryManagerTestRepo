@@ -1,10 +1,12 @@
 {
-    "name": "CityDemo",
-    "author": "Owen",
-    "author_preferred_contacts": "",
-    "category": "demos",
-    "peripherals": ["Wii Remote", "SDHC"],
-    "version": "auto",
+    "information": {
+        "name": "CityDemo",
+        "author": "Owen",
+        "author_preferred_contacts": "",
+        "category": "demos",
+        "peripherals": ["Wii Remote", "SDHC"],
+        "version": "auto"
+    },
     "source": {
         "type": "url",
         "format": "zip",

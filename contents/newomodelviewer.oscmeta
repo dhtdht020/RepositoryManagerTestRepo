@@ -1,10 +1,12 @@
 {
-    "name": "Newo Model Viewer",
-    "author": "Owen",
-    "author_preferred_contacts": "",
-    "category": "utilities",
-    "peripherals": ["Wii Remote", "SDHC"],
-    "version": "auto",
+    "information": {
+        "name": "Newo Model Viewer",
+        "author": "Owen",
+        "author_preferred_contacts": "",
+        "category": "utilities",
+        "peripherals": ["Wii Remote", "SDHC"],
+        "version": "auto"
+    },
     "source": {
         "type": "url",
         "format": "zip",
