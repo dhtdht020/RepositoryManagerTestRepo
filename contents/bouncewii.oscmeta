@@ -12,7 +12,10 @@
         "format": "zip",
         "location": "https://github.com/Greeg0/BounceWii/releases/download/v0.2.1/BounceWii-v0.2.1.zip"
     },
-    "treatments": {
-        "contents.move": ["BounceWii/", "apps/bouncewii/"]
-    }
+    "treatments": [
+        {
+            "treatment": "contents.move",
+            "arguments": ["BounceWii/", "apps/bouncewii/"]
+        }
+    ]
 }

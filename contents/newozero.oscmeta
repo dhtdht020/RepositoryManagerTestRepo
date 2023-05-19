@@ -12,7 +12,10 @@
         "format": "zip",
         "location": "https://owensoft.net/project/newogame/dl/newozero.zip"
     },
-    "treatments": {
-        "contents.move": ["newozero/", "apps/newozero/"]
-    }
+    "treatments": [
+        {
+            "treatment": "contents.move",
+            "arguments": ["newozero/", "apps/newozero/"]
+        }
+    ]
 }

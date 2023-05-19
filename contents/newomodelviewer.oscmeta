@@ -12,7 +12,10 @@
         "format": "zip",
         "location": "https://owensoft.net/project/newogame/dl/NewoModelViewer.zip"
     },
-    "treatments": {
-        "contents.move": ["NewoModelViewer/", "apps/newomodelviewer/"]
-    }
+    "treatments": [
+        {
+            "treatment": "contents.move",
+            "arguments": ["NewoModelViewer/", "apps/newomodelviewer/"]
+        }
+    ]
 }

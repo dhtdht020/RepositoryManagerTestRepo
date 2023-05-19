@@ -12,7 +12,10 @@
         "format": "7z",
         "location": "https://github.com/mgba-emu/mgba/releases/download/0.10.2/mGBA-0.10.2-wii.7z"
     },
-    "treatments": {
-        "contents.move": ["mGBA-0.10.2-wii/", "apps/mgba/"]
-    }
+    "treatments": [
+        {
+            "treatment": "contents.move",
+            "arguments": ["mGBA-0.10.2-wii/", "apps/mgba/"]
+        }
+    ]
 }
