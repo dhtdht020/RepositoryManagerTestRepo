@@ -19,11 +19,11 @@
         },
         {
             "treatment": "contents.move",
-            "arguments": ["apps/mgba/README.md", "README.md"]
+            "arguments": ["apps/contents_treatment_test/README.md", "README.md"]
         },
         {
             "treatment": "contents.move",
-            "arguments": ["apps/mgba/README_DE.md", "apps/README.md"]
+            "arguments": ["apps/contents_treatment_test/README_DE.md", "apps/README.md"]
         }
     ]
 }
