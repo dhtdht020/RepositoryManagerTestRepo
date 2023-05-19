@@ -1,0 +1,20 @@
+{
+    "information": {
+        "name": "mGBA",
+        "author": "Vicki Pfau (endrift)",
+        "author_preferred_contacts": "",
+        "category": "emulators",
+        "peripherals": ["Wii Remote"],
+        "version": "0.10.2"
+    },
+    "source": {
+        "type": "url",
+        "format": "7z",
+        "location": "https://github.com/mgba-emu/mgba/releases/download/0.10.2/mGBA-0.10.2-wii.7z"
+    },
+    "treatments": {
+        "contents.move": ["mGBA-0.10.2-wii/", "apps/mgba/"],
+        "contents.move": ["apps/mgba/README.md", "README.md"],
+        "contents.move": ["apps/mgba/README_DE.md", "apps/README.md"]
+    }
+}
