@@ -1,0 +1,32 @@
+{
+    "information": {
+        "name": "Meta Treatments Test",
+        "author": "Danbo",
+        "author_preferred_contacts": "",
+        "category": "demos",
+        "peripherals": ["Wii Remote"],
+        "version": "0.10.2"
+    },
+    "source": {
+        "type": "url",
+        "format": "7z",
+        "location": "https://github.com/mgba-emu/mgba/releases/download/0.10.2/mGBA-0.10.2-wii.7z"
+    },
+    "treatments": [
+        {
+            "treatment": "contents.move", "arguments": ["mGBA-0.10.2-wii/", "apps/meta_treatment_test/"]
+        },
+        {
+            "treatment": "meta.set", "arguments": ["name", "Meta Treatment Test"]
+        },
+        {
+            "treatment": "meta.set", "arguments": ["test", "hey"]
+        },
+        {
+            "treatment": "meta.set", "arguments": ["version", "1.2.3"]
+        },
+        {
+            "treatment": "meta.set", "arguments": ["short_description", "this is a test."]
+        }
+    ]
+}
