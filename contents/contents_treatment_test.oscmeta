@@ -32,6 +32,10 @@
         {
             "treatment": "contents.delete",
             "arguments": ["apps/contents_treatment_test/CHANGES"]
+        },
+        {
+            "treatment": "meta.set",
+            "arguments": ["name", "Contents Treatment Test"]
         }
     ]
 }
