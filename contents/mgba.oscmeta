@@ -5,17 +5,17 @@
         "author_preferred_contacts": "",
         "category": "emulators",
         "peripherals": ["Wii Remote"],
-        "version": "0.10.2"
+        "version": "auto"
     },
     "source": {
-        "type": "url",
+        "type": "github_release",
         "format": "7z",
-        "location": "https://github.com/mgba-emu/mgba/releases/download/0.10.2/mGBA-0.10.2-wii.7z"
+        "repository": "mgba-emu/mgba",
+        "file": "mGBA-*-wii.7z"
     },
     "treatments": [
         {
-            "treatment": "contents.move",
-            "arguments": ["mGBA-0.10.2-wii/", "apps/mgba/"]
+            "treatment": "contents.move", "arguments": ["mGBA-0.10.2-wii/", "apps/mgba/"]
         }
     ]
 }
