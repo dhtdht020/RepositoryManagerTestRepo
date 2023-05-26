@@ -16,7 +16,7 @@
             "treatment": "contents.move", "arguments": ["newoescape/", "apps/NewoEscape/"]
         },
         {
-            "treatment": "meta.remove_line", "arguments": [1]
+            "treatment": "meta.set_line", "arguments": [1, "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>"]
         }
     ]
 }
