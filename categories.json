@@ -2,31 +2,31 @@
   {
     "name": "demos", 
     "display_name": "Demos",
-    "singular": "demo"
+    "singular": "demo",
     "plural": "demos"
   },
   {
     "name": "emulators", 
     "display_name": "Emulators",
-    "singular": "emulator"
+    "singular": "emulator",
     "plural": "emulators"
   },
   {
     "name": "games", 
     "display_name": "Games",
-    "singular": "game"
+    "singular": "game",
     "plural": "games"
   },
   {
     "name": "media", 
     "display_name": "Media",
-    "singular": "media application"
+    "singular": "media application",
     "plural": "media applications"
   },
   {
     "name": "utilities", 
     "display_name": "Utilities",
-    "singular": "utility"
+    "singular": "utility",
     "plural": "utilities"
   }
 ]
