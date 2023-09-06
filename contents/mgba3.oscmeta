@@ -13,7 +13,7 @@
         "repository": "mgba-emu/mgba",
         "file": "mGBA-*-wii.7z"
     },
-    "treatments": [
+    "treatments" [
         {
             "treatment": "contents.move", "arguments": ["mGBA-*-wii/", "apps/mgba3/"]
         }
